@@ -1,0 +1,1 @@
+This app predicts the sustainable aviation fuel (SAF) yield based on input parameters, calculates the production cost per kg, and checks if the production is feasible based on a threshold cost value. Adjust the inputs to see how different settings impact feasibility
